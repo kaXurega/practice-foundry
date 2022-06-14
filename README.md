@@ -3,7 +3,7 @@
 ## Create Project
 
 In the project folder.<br>
-`$ forge init --foce`
+`$ forge init --force`
 
 ## Build the Project
 
@@ -15,6 +15,5 @@ In the project folder.<br>
 
 ## Modules to install
 
-Use OpenZeppelin's Contracts, a smart contract development library&ensp;
-[GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts)<br>
+Use [OpenZeppelin's Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts), a smart contract development library<br>
 `$ forge install Openzeppelin/openzeppelin-contracts`
